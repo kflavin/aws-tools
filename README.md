@@ -1,5 +1,9 @@
 # AWS tools
 
+Tools for working with AWS
+
+## Cloudformation
+
 **bash_to_cfn.sh**: convert bash script to userdata
 
 **build_cmd.py**: convert CF parameters copy/pasted from AWS console into parameters that can be sent from the command line (aws cli)
